@@ -1,14 +1,14 @@
 public class Main {
     public static void main(String[] args) {
     // Задание 1
-        byte carYear = 2;
+        byte carYear = 1;
         short people = 1000;
         int table = 555555;
         long stars = 123456789L;
         float sugarWeight = 3.7f;
         double potatoWeight = 10.55;
         char bar = 35;
-        boolean carIsNew = carYear < 1;
+        boolean carIsNew = carYear < 2;
 
     // Задание 2
         float boxerWeight1 = 78.2f;
